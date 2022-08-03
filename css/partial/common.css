@@ -1,0 +1,31 @@
+body
+{
+     background-color: #fff;
+
+}
+.title
+{
+     font-size: var(--title-font-size );
+     font-family: var( --main-font-family);
+     font-weight: 600;
+     
+}
+.text
+{
+     font-size: var( --body-font-size);
+     font-family: var(--text-font-family);
+     font-weight: 200 ;
+     color: #fff;
+     
+
+}
+.py-80
+{
+     padding: 80px 0;
+}
+.mini-title
+{
+     font-family: var( --main-font-family);
+     font-weight: 600;
+     font-size: 32px;
+}

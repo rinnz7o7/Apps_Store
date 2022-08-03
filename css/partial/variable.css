@@ -1,0 +1,15 @@
+:root
+{
+     --font-family : 'Poppins','Roboto', sans-serif;
+
+     --main-font-family : 'Poppins';
+     --text-font-family : 'Roboto';
+
+     /* font-size  */
+     --title-font-size :45px;
+     --menu-font-size : 20px;
+     --body-font-size: 17px;
+
+     /* Color  */
+     --footer-color:#EBEBF8;
+}

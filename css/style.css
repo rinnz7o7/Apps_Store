@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Roboto:wght@300;400&display=swap');
+
+
+/* Variable */
+@import url(./partial/variable.css);
+
+/* Common  */
+@import url(./partial/common.css);
+
+/* Header  */
+@import url(./partial/header.css);
+
+/* Project */
+@import url(./partial/projects.css);
+
+/* Client  */
+@import url(./partial/client.css);
+ /* Footer  */
+ @import url(./partial/footer.css);

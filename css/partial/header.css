@@ -1,0 +1,14 @@
+.banner-img
+{
+     background: url(../../img/Group\ 1758.png) no-repeat center;
+     background-size: cover;
+     min-height: 700px;
+}
+.py
+{
+     padding-top: 60px;
+}
+.menu-fs
+{
+     font-size: var(--menu-font-size);
+}
